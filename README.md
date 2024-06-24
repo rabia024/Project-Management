@@ -1,1 +1,2 @@
 # Project-Management
+Many businesses struggle to keep track of project tasks, deadlines, resources, and budgets. Manual system can lead to missed deadlines, project delays, unclear resource allocation, potentially overloading some resources while others are underutilized and Difficulty tracking project progress and deadlines. We provide a well-designed project management database can help businesses overcome these challenges by providing a centralized platform to manage all project information.
